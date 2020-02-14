@@ -1,3 +1,5 @@
+list = ["Tim Jones", "Bob Costas", "Don Knotts"]
+
 def collect(collection)
   i = 0
   name_collection = []
