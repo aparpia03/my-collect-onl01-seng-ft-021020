@@ -1,4 +1,4 @@
-list = ["Tim Jones", "Bob Costas", "Don Knotts"]
+list = ["Abbas", "Jawad", "Kevin"]
 
 
 def my_collect(array)
