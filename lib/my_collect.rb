@@ -8,3 +8,4 @@ def collect(collection)
   name_collection
 end
 
+collect
